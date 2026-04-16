@@ -8,3 +8,8 @@ jupyter
 notebook
 ipykernel
 plotly
+torch
+torchvision
+torchsummary
+requests
+Pillow
